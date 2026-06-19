@@ -20,7 +20,7 @@ Upon generating your prompt, you can use the Run with AI section for testing pro
 
 For cloud AI, choose the cloud option, pick a provider, paste your API key, and run the prompt.
 
-For local AI, download the this `index.html` file make sure Ollama (or other) is running on your computer. Open Command Prompt and go to the file path where this `index.html` is saved. Start a local server by typing `python -m http.server 8765`. Then open `http://127.0.0.1:8765/index.html` in your browser. Once the site is open locally, go to Builder, scroll to Run with AI, choose Local AI, click Check Local AI, pick a model, generate a prompt, and click Run Prompt.
+For local AI, download this `index.html` file and make sure Ollama (or other) is running on your computer. Open Command Prompt and go to the file path where this `index.html` is saved. Start a local server by typing `python -m http.server 8765`. Then open `http://127.0.0.1:8765/index.html` in your browser. Once the site is open locally, go to Builder, scroll to Run with AI, choose Local AI, click Check Local AI, pick a model, generate a prompt, and click Run Prompt.
 
 ### Library
 
