@@ -6,7 +6,7 @@ To put it simply, PromptDeck is for drafting clearer and more specific prompts t
 
 ## How to use the site
 
-Start by going to the Builder page. Write what you want the AI to do, choose a persona or response tone if helpful, add any context or constraints, then click Generate. You can copy the finished prompt into an AI tool, or use the Run with AI section to test it directly inside the site.
+Start by going to the Builder page. Choose a persona or response tone if helpful, input your task/goal, add any context or constraints, then click Generate. You can copy the finished prompt into an AI tool, or use the Run with AI section to test it directly inside the site.
 
 If you do not want to start from scratch, go to Templates, pick a prompt card, and it will load into the Builder. From there you can edit it, generate the final prompt, and use it however you want.
 
