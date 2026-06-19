@@ -16,7 +16,7 @@ If you do not want to start from scratch, go to Templates, pick a prompt card, a
 
 The Builder is where you create prompts from scratch. You can choose a persona and a response tone, then type in your task, context, output format, and select extra enhancements.
 
-Upon generating your prompt, you can use the Run with AI section for testing prompts directly. This is optional and is usable with a an API key or local model.
+Upon generating your prompt, you can use the Run with AI section for testing prompts directly. This is optional and is usable with an API key or local model.
 
 For cloud AI, choose the cloud option, pick a provider, paste your API key, and run the prompt.
 
